@@ -51,7 +51,16 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
     </dependencies>
+
+    Excerpt From
+    Spring in Action, Sixth Edition
+    Craig Walls
+    This material may be protected by copyright.
 
     <build>
         <plugins>
